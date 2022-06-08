@@ -85,3 +85,4 @@ int main(int argc, char** argv) {
 }
 
 // socket() -> bind() -> listen() -> accept()
+// read up on http server from here
